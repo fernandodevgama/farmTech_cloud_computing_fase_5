@@ -20,6 +20,9 @@ Para uma visão geral do projeto e da análise, assista ao nosso vídeo de demon
 [Link para o vídeo de demonstração]
 
 ## Como Utilizar
+Acesse: [https://colab.research.google.com/drive/15gt8C-CqMlii8T7JmoXVEsrWzPXL5eOJ?usp=sharing#scrollTo=k2zCNcncbLHA](https://colab.research.google.com/drive/15gt8C-CqMlii8T7JmoXVEsrWzPXL5eOJ?usp=sharing#scrollTo=k2zCNcncbLHA)
+
+Ou:
 
 Para explorar a análise em detalhes, siga os passos abaixo:
 
