@@ -17,7 +17,7 @@ Este projeto realiza uma análise detalhada do rendimento de safras agrícolas, 
 
 Para uma visão geral do projeto e da análise, assista ao nosso vídeo de demonstração no YouTube:
 
-[[Link para o vídeo de demonstração]](https://youtu.be/oxlzB0FDWaE)
+[Link para o vídeo de demonstração](https://youtu.be/mUG2QHdiThI)
 
 ## Como Utilizar
 Acesse: [https://colab.research.google.com/drive/15gt8C-CqMlii8T7JmoXVEsrWzPXL5eOJ?usp=sharing#scrollTo=k2zCNcncbLHA](https://colab.research.google.com/drive/15gt8C-CqMlii8T7JmoXVEsrWzPXL5eOJ?usp=sharing#scrollTo=k2zCNcncbLHA)
@@ -53,7 +53,7 @@ Para explorar a análise em detalhes, siga os passos abaixo:
 
 Assista ao vídeo da Entrega 2 para uma demonstração da comparação de custos e recursos usando a Calculadora AWS:
 
-[[Link para o vídeo de demonstração da Entrega 2](https://youtu.be/mUG2QHdiThI)]
+[Link para o vídeo de demonstração da Entrega 2](https://youtu.be/oxlzB0FDWaE)
 
 ### 1. Estimativa de Custos: São Paulo vs. Virgínia do Norte
 
