@@ -7,7 +7,6 @@ Este projeto realiza uma análise detalhada do rendimento de safras agrícolas, 
 ## Equipe
 - [Gabriel Schuler Barros] (RM: [rm564934])
 - [Gabriella Serni Ponzetta] (RM: [rm566296])
-- [João Pedro Abreu] (RM: [RM563261])
 - [Fernando Ricardo] (RM: [rm566501])
 - [João Francisco Maciel Albano] (RM: 565985)
 
